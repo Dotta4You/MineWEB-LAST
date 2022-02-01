@@ -8,13 +8,13 @@
 # MineWEB
 MineWEB is a FREE Minecraft Website Template for your Minecraft Server.
 
-![Image](https://cdn.pterodactyl.io/site-assets/pterodactyl_v1_demo.gif)
+
 
 ## Links
 * [Test Website](https://mineweb.narrowmining.de/)
 * [Discord](https://discord.gg/Fdz87T3nRB)
 
 ## License
-Pterodactyl® Copyright © 2015 - 2022 Dane Everitt and contributors.
+Copyright © 2015 - 2022 Dane Everitt and contributors.
 
 Code released under the [MIT License](./LICENSE.md).
