@@ -1,0 +1,161 @@
+/*Structure of this Stylesheet: 
+ I - all main boxes
+ II - defining the #top content
+ III - defining the #content content
+ IV - defining the #right sidebar
+ */
+body{
+  background: #9C0;
+  margin: 0;
+  padding: 0;
+  font: 12px "Verdana",sans-serif;
+  text-align: center;
+  line-height: 1.7em;
+  color: #000;
+}
+#content{
+	background: #FFF url(images/topleft.gif) no-repeat top left;
+	padding: 10px;
+}
+#footer{
+	text-align: center;
+}
+#left{
+	float: left;
+	width: 610px;
+	background: #9C0;
+}
+#main{
+	margin: 20px auto;
+	text-align: left;
+	width: 780px;
+	background: #FFF;
+}
+#right{
+	float: right;
+	width: 170px;
+	background: #FFF url(images/topleft.gif) no-repeat top left;
+}
+#top{
+	margin: 10px 0 0 10px;
+	width: 600px;
+	background: #5F5F5F url(images/toptopleft.gif) no-repeat top left;
+	color: #F5F5F5;
+}
+/*Configuring the -top-box */
+#top dd{
+	margin: 0;
+}
+#top a{
+	color: #F5F5F5;
+	border-bottom: 1px #F5F5F5 dotted;
+	padding:1px 10px 0px 5px;
+	margin: 1px 0 0 10px;
+	text-decoration: none;
+}
+#top a:hover{
+	border-bottom: 1px #F5F5F5 solid;
+}
+#top .left{
+	float: left;
+	width: 280px;
+	margin: 10px 0 0 10px;
+	background: url(images/top-bg.gif) repeat-y top right;
+}
+#top .right{
+	float:right;
+	width: 275px;
+	margin: 10px 10px 0 0;
+}
+#topbottom{
+	clear: both;
+	background: url(images/toptopbottom.gif) bottom right no-repeat;
+	height: 10px;
+}
+/* just the c#content box*/
+h2{
+	font: normal normal 1.5em "Georgia",serif;
+	color: #000;
+	text-decoration: none;
+	background: url(images/h2.gif) top left no-repeat;
+	padding: 3px 0 0 8px;
+}
+h3{
+	font: normal normal 1em "Georgia",serif;
+	text-transform: uppercase;
+	text-indent: 2em;
+	margin: 7px 0 2px 0;
+}
+#headline{
+	background: url(images/header.jpg) no-repeat top left;
+	width: 590px;
+	height: 90px;
+	position: relative;
+}
+#headline h1{
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+	color: #FFF;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	font: normal normal 2.2em "Trebuchet MS","Arial",sans-serif;
+}
+p{
+	text-indent: 1.3em;
+	margin: 0 0 5px 0;
+	padding: 0;
+}
+/* sidebar */
+#inner{
+	padding: 0 10px;
+}
+form{
+	margin: 0;
+	padding: 0 0 30px 0;
+	border-bottom: 1px #999 solid;
+}
+form input{
+	background: #F5F5F5;
+	border: 0;
+	border-bottom: 1px #EFEFEF dotted;
+}
+form label{
+	font-family: "Georgia",serif;
+}
+form .button{
+	background: #FFF;
+	border-bottom: none;
+	cursor: pointer;
+}
+form a{
+	font-family: "Georgia",serif;
+}
+h5{
+	background: url(images/nav-h.gif) center left no-repeat;
+	font: 1.5em "Arial",sans-serif;
+	padding-left: 25px;
+	margin: 7px 0 3px 3px;
+}
+.nav{
+	margin: 2px;
+	padding: 0;
+}
+.nav li{
+	display: inline;
+	list-style-type: none;
+	
+}
+.nav li a{
+	display: block;
+	background: #EFEFEF;
+	padding: 1px 1px 1px 5px;
+	margin: 1px;
+	text-decoration: none;
+	color: #000;
+}
+.nav li a:hover{
+	padding-left: 2px;
+	border-left: 3px #9C0 solid;
+}
