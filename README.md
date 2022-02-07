@@ -16,4 +16,4 @@ MineWEB is a FREE Minecraft Website Template for your Minecraft Server .
 
 
 
-Code released under [Gnu GPL 3](./LICENSE.md).
+Code released under the [Gnu GPL 3](./LICENSE.md).
