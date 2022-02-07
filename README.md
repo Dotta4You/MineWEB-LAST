@@ -14,7 +14,6 @@ MineWEB is a FREE Minecraft Website Template for your Minecraft Server .
 * [Test Website](https://mineweb.narrowmining.de/)
 * [Discord](https://discord.gg/Fdz87T3nRB)
 
-<!-- ## License
-Copyright © 2015 - 2022 Dane Everitt and contributors. --->
 
-Code released under the [MIT License](./LICENSE.md).
+
+Code released under the [Gnu GPL 3](./LICENSE.md).
