@@ -6,7 +6,7 @@
 <!-- ![GitHub contributors](https://img.shields.io/github/contributors/pterodactyl/panel?style=for-the-badge) --->
 
 # MineWEB
-MineWEB is a FREE Minecraft Website Template for your Minecraft Server .
+MineWEB is a FREE Minecraft Website Template for your Minecraft Server.
 
 
 
