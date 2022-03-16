@@ -31,7 +31,7 @@ declined, etc.
 
 
 ## Links
-* [Test Website](https://mineweb.narrowmining.de/)
+* [Demo](https://mineweb.narrowmining.de/)
 * [Discord](https://discord.gg/Fdz87T3nRB)
 
 
