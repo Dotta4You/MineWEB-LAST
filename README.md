@@ -17,9 +17,9 @@ currently being supported with security updates.
 | Version | OS | PHP |   Supported   |
 | ------- | -- | --- | ------------- |
 | 3.0.x   | Deb11/10, Ubuntu 18/20.04 | 8 | :white_check_mark: |
-| 2.1.x   | Deb11/10, Ubuntu 18/20.04 |   | :white_check_mark: |
-| 2.0.x   | Deb11/10, Ubuntu 18/20.04 |   | :x:           |
-| < 2.0   | Debian 10, Ubuntu 18/20.04 |   |:x:           |
+| 2.1.x   | Deb11/10, Ubuntu 18/20.04 | 7.4/8 | :white_check_mark: |
+| 2.0.x   | Deb11/10, Ubuntu 18/20.04 | 7.4 | :x:           |
+| < 2.0   | Debian 10, Ubuntu 18/20.04 | 7.4 |:x:           |
 
 ## Reporting a Vulnerability
 
