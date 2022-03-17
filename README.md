@@ -11,8 +11,7 @@ MineWEB is a FREE Minecraft Website Template for your Minecraft Server.
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Here you can see the current compatibilities which versions are updated and which are already outdated.
 
 | Version | OS | PHP |   Supported   |
 | ------- | -- | --- | ------------- |
