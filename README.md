@@ -5,7 +5,9 @@
 <!-- ![GitHub Releases](https://img.shields.io/github/downloads/pterodactyl/panel/latest/total?style=for-the-badge) --->
 <!-- ![GitHub contributors](https://img.shields.io/github/contributors/pterodactyl/panel?style=for-the-badge) --->
 
-# MineWEB
+Mineless is a further development of Nameless(MC)
+
+# Mineless
 MineWEB is a FREE Minecraft Website Template for your Minecraft Server.
 
 
