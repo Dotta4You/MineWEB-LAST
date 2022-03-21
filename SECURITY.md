@@ -2,20 +2,11 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Here you can see the current compatibilities which versions are updated and which are already outdated.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 3.0.x   | :white_check_mark: |
-| 2.1.x   | :white_check_mark: |
-| 2.0.x   | :x: |
-| < 2.0   | :x:                |
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+| Version | OS | PHP |   Supported   |
+| ------- | -- | --- | ------------- |
+| 3.0.x   | Deb11/10, Ubuntu 18/20.04 | 8 | :white_check_mark: |
+| 2.1.x   | Deb11/10, Ubuntu 18/20.04 | 7.4/8 | :white_check_mark: |
+| 2.0.x   | Deb11/10, Ubuntu 18/20.04 | 7.4 | :x:           |
+| < 2.0   | Debian 10, Ubuntu 18/20.04 | 7.4 |:x:           |
