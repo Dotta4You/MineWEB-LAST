@@ -8,7 +8,7 @@
 Mineless is a further development of Nameless(MC)
 
 # Mineless
-MineWEB is a FREE Minecraft Website Template for your Minecraft Server.
+Mineless is a FREE Minecraft Website Template for your Minecraft Server.
 
 
 ## Supported Versions
