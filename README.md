@@ -24,11 +24,9 @@ Here you can see the current compatibilities which versions are updated and whic
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+If you find a Security Vulnerability in the code,
+please join our Discord and Message either a Developer or a Creator.
+All Supported versions will get patches for Security Vulnerabilitys
 
 
 ## Links
