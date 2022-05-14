@@ -31,6 +31,11 @@ go to "Issues"
 * [Demo](https://mineweb.narrowmining.de/)
 * [Discord](https://discord.gg/Fdz87T3nRB)
 
+## Developer
+* JokerLP
+* Dötchen aka kanal31
 
+<!-- Soon: --->
+<!-- ## Docs --->
 
 Code released under the [Gnu GPL 3](./LICENSE.md).
