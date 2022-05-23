@@ -33,7 +33,7 @@ go to "Issues"
 
 ## Developer
 * JokerLP
-* Dötchen aka kanal31
+* Dötchen aka Dotta4You aka Kanal31
 
 <!-- Soon: --->
 <!-- ## Docs --->
