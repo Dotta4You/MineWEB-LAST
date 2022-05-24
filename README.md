@@ -5,7 +5,7 @@
 <!-- ![GitHub Releases](https://img.shields.io/github/downloads/pterodactyl/panel/latest/total?style=for-the-badge) --->
 <!-- ![GitHub contributors](https://img.shields.io/github/contributors/pterodactyl/panel?style=for-the-badge) --->
 
-Mineless is the best Free Minecraft Website Template
+Mineless is a Free Minecraft Website Template
 
 # Mineless
 Mineless is a FREE Minecraft Website Template for your Minecraft Server.
