@@ -7,29 +7,11 @@
 
 Mineless is a Free Minecraft Website Template
 
-# Mineless
-Mineless is a FREE Minecraft Website Template for your Minecraft Server.
+# MineWeb
+MineWeb is a FREE Minecraft Website Template for your Minecraft Server.
 
-
-## Supported Versions
-
-Here you can see the current compatibilities which versions are updated and which are already outdated.
-
-| Version | OS | PHP |   Supported   |
-| ------- | -- | --- | ------------- |
-| 3.0.x   | Deb11/10, Ubuntu 18/20 | 8 | :white_check_mark: |
-| 2.1.x   | Deb11/10, Ubuntu 18/20 | 7.4/8 | :white_check_mark: |
-| 2.0.x   | Deb11/10, Ubuntu 18/20 | 7.4 | :x:           |
-| < 2.0   | Debian 10, Ubuntu 18/20 | 7.4 |:x:           |
-
-## Reporting a Vulnerability
-
+## Reporting a Vulnerability/Bug
 go to "Issues"
-
-
-## Links
-* [Demo]()
-* [Discord](https://discord.gg/Fdz87T3nRB)
 
 ## Developer
 * Dötchen aka Dotta4You
