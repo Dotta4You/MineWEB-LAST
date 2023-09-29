@@ -1,5 +1,3 @@
-Mineless is a Free Minecraft Website Template
-
 # MineWeb
 MineWeb is a FREE Minecraft Website Template for your Minecraft Server.
 
