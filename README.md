@@ -28,12 +28,11 @@ go to "Issues"
 
 
 ## Links
-* [Demo](https://mineweb.narrowmining.de/)
+* [Demo]()
 * [Discord](https://discord.gg/Fdz87T3nRB)
 
 ## Developer
-* JokerLP
-* Dötchen aka Dotta4You aka Kanal31
+* Dötchen aka Dotta4You
 
 <!-- Soon: --->
 <!-- ## Docs --->
