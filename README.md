@@ -9,5 +9,3 @@ go to "Issues"
 
 <!-- Soon: --->
 <!-- ## Docs --->
-
-Code released under the [Gnu GPL 3](./LICENSE.md).
